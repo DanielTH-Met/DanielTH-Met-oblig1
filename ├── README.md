@@ -25,6 +25,7 @@ The purpose of this project is to demonstrate basic repository structure, Python
 # Requirements
 
 Python 3.10 or higher
+
 No external dependencies for Obligation 1
 
 # Author 
