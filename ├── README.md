@@ -15,18 +15,21 @@ Git clone:
 2. Creating a virtiual enviroment:
    
    Type into the terminal:
+
     ```bash
     python -m venv .venv
 
 3. Activating the virtual enviroment:
 
     Type into the terminal:
+
     ```bash
     venv\Scripts\activate
     
 4. Run the application:
 
   Type into the terminal:
+
     ```bash
     python hello_health.py
 
