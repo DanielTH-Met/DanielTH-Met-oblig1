@@ -15,7 +15,6 @@ Git clone:
 2. Creating a virtiual enviroment:
    
    Type into the terminal:
-
     ```bash
     python -m venv .venv
 
