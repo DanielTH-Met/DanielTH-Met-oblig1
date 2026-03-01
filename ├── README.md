@@ -7,21 +7,28 @@ The purpose of this project is to demonstrate basic repository structure, Python
 ## Installation Instructions
 
 1. Clone the repository:
+
+Git clone:
    ```bash
-   git clone https://github.com/DanielTH-Met/DanielTH-Met-oblig1.git
+   https://github.com/DanielTH-Met/DanielTH-Met-oblig1.git
 
 2. Creating a virtiual enviroment:
+   
    Type into the terminal:
     ```bash
     python -m venv .venv
 
-4. Activating the virtual enviroment:
+3. Activating the virtual enviroment:
+
+    Type into the terminal:
     ```bash
-    Type into the terminal: venv\Scripts\activate
+    venv\Scripts\activate
     
-5. Run the application:
+4. Run the application:
+
+  Type into the terminal:
     ```bash
-    Type into the terminal: python hello_health.py
+    python hello_health.py
 
 # Requirements
 
