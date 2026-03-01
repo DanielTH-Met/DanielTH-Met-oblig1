@@ -18,5 +18,16 @@ The purpose of this project is to demonstrate basic repository structure, Python
     ```bash
     Type into the terminal: venv\Scripts\activate
     
+4. Run the application:
+    ```bash
+    Type into the terminal: python hello_health.py
+
+# Requirements
+
+Python 3.10 or higher
+No external dependencies for Obligation 1
+
+# Author 
+Daniel Ta Helland
 
 
