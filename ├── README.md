@@ -11,14 +11,15 @@ The purpose of this project is to demonstrate basic repository structure, Python
    git clone https://github.com/DanielTH-Met/DanielTH-Met-oblig1.git
 
 2. Creating a virtiual enviroment:
+   Type into the terminal:
     ```bash
-    Type into the terminal: python -m venv .venv
+    python -m venv .venv
 
-3. Activating the virtual enviroment:
+4. Activating the virtual enviroment:
     ```bash
     Type into the terminal: venv\Scripts\activate
     
-4. Run the application:
+5. Run the application:
     ```bash
     Type into the terminal: python hello_health.py
 
