@@ -9,3 +9,10 @@ The purpose of this project is to demonstrate basic repository structure, Python
 1. Clone the repository:
    ```bash
    git clone https://github.com/DanielTH-Met/DanielTH-Met-oblig1.git
+
+2. Creating a virtiual enviroment:
+    ```bash
+    Type into the terminal: python -m venv venv
+
+3. Activating the virtual enviroment:
+    
