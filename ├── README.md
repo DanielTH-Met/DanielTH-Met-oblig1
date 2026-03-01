@@ -8,26 +8,27 @@ The purpose of this project is to demonstrate basic repository structure, Python
 
 1. Clone the repository:
 
-Git clone:
+
+   Git clone:
    ```bash
    https://github.com/DanielTH-Met/DanielTH-Met-oblig1.git
 
-2. Creating a virtiual enviroment:
+3. Creating a virtiual enviroment:
    
    Type into the terminal:
     ```bash
     python -m venv .venv
 
-3. Activating the virtual enviroment:
+4. Activating the virtual enviroment:
 
     Type into the terminal:
 
     ```bash
     venv\Scripts\activate
     
-4. Run the application:
+5. Run the application:
 
-  Type into the terminal:
+   Type into the terminal:
 
     ```bash
     python hello_health.py
