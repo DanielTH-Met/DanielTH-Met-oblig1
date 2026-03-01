@@ -8,4 +8,4 @@ The purpose of this project is to demonstrate basic repository structure, Python
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-username-oblig1.git
+   git clone https://github.com/DanielTH-Met/DanielTH-Met-oblig1.git
